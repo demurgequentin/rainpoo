@@ -1,8 +1,5 @@
-import random
-import pygame
-from pygame.math import Vector2
-import core
-from POO.Drop import Drop
+from p5 import core
+from p5.POO.Drop import Drop
 
 drops = []
 
